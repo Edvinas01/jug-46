@@ -1,0 +1,20 @@
+
+# Gradle
+/.gradle
+
+# Builds
+/build
+/out
+
+# Runtime
+/.kotlintest
+
+# IDEA
+/.idea
+/*.iml
+
+# Keep run configs
+/.idea/*
+
+!/.idea
+!/.idea/runConfigurations

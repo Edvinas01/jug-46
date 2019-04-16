@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="spring" type="Application" factoryName="Application">
+    <envs>
+      <env name="spring.output.ansi.enabled" value="ALWAYS" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.edd.jug46.spring.Application" />
+    <module name="jug-46.jug-46.main" />
+    <option name="VM_PARAMETERS" value="-noverify -XX:TieredStopAtLevel=1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
