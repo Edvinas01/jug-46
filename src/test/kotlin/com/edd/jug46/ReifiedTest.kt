@@ -5,7 +5,7 @@ import com.fasterxml.jackson.module.kotlin.readValue
 import com.fasterxml.jackson.module.kotlin.registerKotlinModule
 import org.junit.jupiter.api.Test
 
-class Reified {
+class ReifiedTest {
 
     @Test
     fun `should figure out type`() {

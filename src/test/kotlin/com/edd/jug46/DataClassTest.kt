@@ -7,14 +7,14 @@ class DataClassTest {
 
     @Test
     fun `should use data classes`() {
-val first = Carl(id = 1, lastName = "Carlson", name = "Carl ofc")
-println(first)
+        val first = Carl(id = 1, lastName = "Carlson", name = "Carl ofc")
+        println(first)
 
-val second = first.copy()
-val third = first.copy(id = 3)
+        val second = first.copy()
+        val third = first.copy(id = 3)
 
-assertTrue(first == second)
-assertTrue(first != third)
+        assertTrue(first == second)
+        assertTrue(first != third)
     }
 }
 

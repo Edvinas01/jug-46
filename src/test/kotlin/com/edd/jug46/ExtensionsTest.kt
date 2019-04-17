@@ -7,7 +7,6 @@ class ExtensionsTest {
 
     @Test
     fun `should convert null to json`() {
-        // Works on nulls
         println(null.toJson())
     }
 
