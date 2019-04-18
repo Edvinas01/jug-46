@@ -15,5 +15,5 @@
 # Keep run configs
 /.idea/*
 
-/!.idea
-/!.idea/runConfigurations
+!/.idea
+!/.idea/runConfigurations
