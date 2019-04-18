@@ -1,0 +1,16 @@
+# Gradle
+/.gradle
+
+# Builds
+/build
+/out
+
+# IDEA
+/.idea
+/*.iml
+
+# Keep run configs
+/.idea/*
+
+/!.idea
+/!.idea/runConfigurations
